@@ -19,8 +19,15 @@
 * 선택: 운영체제, 컴퓨터 네트워크
 
 ### 강의 교재
-* 유닉스 시스템 프로그래밍, 이종원 저, 한빛아카데미(주), 2017
-
+* 주교재
+  * 유닉스 시스템 프로그래밍, 이종원 저, 한빛아카데미(주), 2017
+* 부교재
+  * Beginning Linux Programming (4th ed), Neil Matthew and Richard Stones, wrox, 2008.
+  * 리눅스 시스템 프로그래밍 (개정판 2판), 로버트 러브 지음, 김영근 옮김, 한빛미디어, 2015.
+  * Professional Linux Kernel Architecture, Wolfgang Mauerer, Wiley, 2008.
+  * Running Linux, Matthias Kalle Dalheimer and Matt Welsh, O'Reilly, 2005.
+  * 유닉스 이론과 실습, 윤소정, 이종원 저, 한빛미디어, 2012
+  
 ### 주차별 강의내용
 * 1주차
   * 학습내용: 교과목 소개 및 리눅스 시스템 개요
@@ -80,3 +87,9 @@
 * 숙제 : 10%
 * 미니 프로젝트: 10% (팀 프로젝트로 진행. 결과물 제출 5%, PPT 상호평가 5%)
 * 출석 : 5%
+
+### 수업 리소스
+  * 우분투 Server 18.04.x LTS (SSH 접속 가능, 교내 IP에서만 접속 가능)
+    * 210.115.230.183
+    * 210.115.230.184
+    * 210.115.229.76
